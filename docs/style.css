@@ -15,7 +15,6 @@ h2{
 }
 
 body{
-  //background-color: slateblue;
   background: linear-gradient(to right, lightblue, slateblue);
   font-family: 'Trebuchet MS';
   color: white;
@@ -24,8 +23,8 @@ body{
 
 a{
   background-color: white;
-  #background: linear-gradient(to right, lightblue, slateblue);
-  #background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  //background: linear-gradient(to right, lightblue, slateblue);
+  //background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
   font-size: 20px;
   border-radius: 10px;
   padding: 10px;
@@ -62,7 +61,6 @@ a:hover{
 
 .fa-user-plus{
   color: pink;
- 
 }
 
 .fa-facebook-square{
